@@ -17,7 +17,7 @@ export default function App() {
         marginBottom:20
         
       }}
-      placeholder="Enter Your name"
+      placeholder="Enter Your nam"
     />
     <Button title="Say Hi!" 
     style={{
